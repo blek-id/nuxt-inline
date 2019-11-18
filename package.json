@@ -1,0 +1,9 @@
+{
+  "name": "inline-test",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "dependencies": {
+    "nuxt": "^2.10.2"
+  }
+}
